@@ -18,7 +18,7 @@ To run sample attach some input to A0 on the arduino board.
 Change the API key, Feed ID	and Datastream ID in index.js to match the your cosm.com settings
 
 ## Example LSR Layout
-[!https://raw.github.com/No9/csom-sketches/master/images/lightsensorboardlayout.jpg]
+[![Board Layout](https://raw.github.com/No9/csom-sketches/master/images/lightsensorboardlayout.jpg)]
 
 
 
