@@ -1,0 +1,29 @@
+{
+  "name": "cosm-sketches",
+  "description": "",
+  "tags": [
+    "Arduino",
+    "Streams",
+    "cosm"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Anton Whalley",
+    "email": "anton.whalley@vodafone.ie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/No9/csom-sketches.git"
+  },
+  "bugs": {
+    "url": "https://github.com/No9/csom-sketches/issues"
+  },
+  "dependencies": {
+    "firmata" : "0.2.4", 
+	"cosm" : "0.0.3"
+  },
+  "devDependencies" : {
+    },
+    "scripts" : {
+  }
+}
